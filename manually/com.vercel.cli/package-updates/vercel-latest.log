@@ -1,0 +1,15 @@
+[2024-09-12T20:52:21.878Z] [debug] Notifying parent we're ready
+[2024-09-12T20:52:21.889Z] [debug] Received message from parent: {
+  cacheFile: 'D:\\Etc\\PHP\\hello\\manually\\com.vercel.cli\\package-updates\\vercel-latest.json',
+  distTag: 'latest',
+  name: 'vercel',
+  updateCheckInterval: 86400000
+}
+[2024-09-12T20:52:21.889Z] [debug] Disconnecting from parent
+[2024-09-12T20:52:21.894Z] [debug] Checking lock file: D:\Etc\PHP\hello\manually\com.vercel.cli\package-updates\vercel-latest.lock
+[2024-09-12T20:52:21.896Z] [debug] Initializing lock file with pid 17016
+[2024-09-12T20:52:21.899Z] [debug] Fetching https://registry.npmjs.org/-/package/vercel/dist-tags
+[2024-09-12T20:52:22.877Z] [debug] Found dist tag "latest" with version "37.4.2"
+[2024-09-12T20:52:22.877Z] [debug] Writing cache file: D:\Etc\PHP\hello\manually\com.vercel.cli\package-updates\vercel-latest.json
+[2024-09-12T20:52:22.880Z] [debug] Releasing lock file: D:\Etc\PHP\hello\manually\com.vercel.cli\package-updates\vercel-latest.lock
+[2024-09-12T20:52:22.881Z] [debug] Worker finished successfully!
